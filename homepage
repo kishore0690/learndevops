@@ -4,7 +4,7 @@ public class homepage {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
 System.out.println("git operations");
-
+System.out.println("Welcome to git ");
     }
 }
 //git operations
